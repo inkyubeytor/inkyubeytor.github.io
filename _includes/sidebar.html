@@ -1,0 +1,14 @@
+<div id="sidebar">
+  <header>
+    <h1 class="site-title">
+      <a href="{{ "/" | relative_url }}">
+        {{ site.title }}
+      </a>
+    </h1>
+    <p class="lead">{{ site.description }}</p>
+  </header>
+  {% include sidebar-nav-links.html %}
+
+  {% include sidebar-icon-links.html %}
+  {% include copyright.html %}
+</div>
