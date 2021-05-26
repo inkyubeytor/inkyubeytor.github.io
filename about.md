@@ -10,16 +10,48 @@ My current interests lie mostly in the realm of natural language processing,
 but I'm always open to expanding my knowledge in other fields.
 
 If you're looking for my one-page resume, 
-[look no further]({{ site.url }}/files/resume-2021-05-23.pdf).
+[look no further]({{ site.url }}/files/resume-2021-05-25.pdf).
 A more detailed description of my experience is below.
 
 # Curriculum Vitae
 
 ## Work Experience
 
+### Teaching Assistant for _15-150: Principles of Functional Programming_
+
+<!--TODO-->
+
 ## Research Experience
 
+### Verdant: Computational Notebook Versioning
+
+<!--TODO-->
+
+### AI-Assisted User Research Tools
+
+<!--TODO-->
+
+### Architecture and Analysis for High-Assurance Autonomy
+
+<!--TODO-->
+
 ## Projects
+
+### LU-Partition
+
+<!--TODO-->
+
+### QA-QG System
+
+<!--TODO-->
+
+### Recipe Delta
+
+<!--TODO-->
+
+### EduPass
+
+<!--TODO-->
 
 ## Coursework
 
@@ -98,3 +130,17 @@ _MATH 2473_,
 covering single and multivariable calculus and linear algebra.
 I took these courses from 2014 to 2017, spanning 8th through 10th grade of
 high school.
+
+## Volunteering
+
+### CMIMC
+
+<!--TODO-->
+
+### CMU Science Olympiad
+
+<!--TODO-->
+
+### Free Geek Twin Cities
+
+<!--TODO-->
