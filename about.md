@@ -51,6 +51,18 @@ A more detailed description of my experience is below.
 
 ### EduPass
 
+I worked on this project from my freshman through junior years of high school,
+first as part of the JA Company program and then as part of an independent
+startup. 
+
+We created an educational technology product to solve the problem of
+tracking school attendance during flexible schedule offerings (i.e. periods in
+which students were free to choose what classes or extracurricular offerings
+they participated in). Our tool allowed students to search offerings and 
+coordinate with friends, teachers to invite students and track classroom 
+attendance, and administrators to view individual to school-level analytics 
+across multiple sessions.
+
 <!--TODO-->
 
 ## Coursework
@@ -133,11 +145,11 @@ high school.
 
 ## Volunteering
 
-### CMIMC
+### CMU Science Olympiad
 
 <!--TODO-->
 
-### CMU Science Olympiad
+### CMIMC
 
 <!--TODO-->
 
