@@ -31,7 +31,7 @@ email: vijayakumar.abhishek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio and blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://inkyubeytor.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://inkyubeytor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: inkyubeytor
 github_url: https://github.com/inkyubeytor
 linkedin_url: https://www.linkedin.com/in/abhishek-vijayakumar/
