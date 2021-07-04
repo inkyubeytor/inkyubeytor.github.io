@@ -17,37 +17,66 @@ description of my experience is below.
 
 ### Data Science Intern at Verizon - Systems Performance Engineering
 
+I worked with systems performance data to analyze and optimize network 
+parameters affecting dropped call KPIs. I developed pipelines to automate 
+data aggregation and trained a variety of machine learning models including
+XGBoost ensembles to select optimal parameter values for network configuration.
+
 ### Teaching Assistant for 15-150: Principles of Functional Programming
 
-<!--TODO-->
+As a teaching assistant, I co-taught a lab/recitation section with over 20
+students. developed new content for homework assignments. helped over 100 
+students at office hours, and graded assignments and exams.
+
+### Grader for Art of Problem Solving
+
+As a grader, I provided personalized feedback to student problem submissions 
+for Python and algebra problems.
 
 # Research Experience
 
 ### Verdant: Computational Notebook Versioning
 
 As part of the 2020 CMU HCII REU program, I worked on the JupyterLab extension
-Verdant, which provides advanced version control features for experiments run
-in computational notebooks, including cell-level versioning, output diffing,
-and intelligent search.
+[Verdant](https://github.com/mkery/Verdant), which provides advanced version 
+control features for experiments run in computational notebooks, including 
+cell-level versioning, output diffing, and intelligent search.
 
 I worked on development of the core extension with React, Redux, and 
-TypeScript. I also developed a chart classification pipeline using scikit-learn
-to differentiate different types of chart output images from other images.
+TypeScript. I also developed a 
+[chart classification](https://github.com/inkyubeytor/chart_classification)
+pipeline using scikit-learn to differentiate different types of chart output 
+images from other images.
 
 
 ### AI-Assisted User Research Tools
 
-<!--TODO-->
+As part of a CMU HCII independent study, I developed a Python 
+[tool](https://github.com/inkyubeytor/ai_ux_tools) for automatically 
+summarizing research interview data and performing comparisons between textual 
+data to find outliers. I also performed a landscape analysis of current methods 
+in abstractive and extractive text summarization.
 
 ### Architecture and Analysis for High-Assurance Autonomy
 
-<!--TODO-->
+I worked on a project to improve training and testing methods for computer
+vision neural networks, using self-driving planes as the problem domain.
+I coauthored [a paper](https://ieeexplore.ieee.org/document/8718224) on input 
+prioritization methods for lowering the human cost of labeling collected data.
+I coauthored [another paper](https://ieeexplore.ieee.org/document/9176830) on 
+generating synthetic test data using variational autoencoders. I also wrote 
+interfaces for and automated data collection in the X-Plane 11 simulator.
 
 # Projects
 
 ### LU-Partition
 
-<!--TODO-->
+We [implemented](https://github.com/inkyubeytor/lupartition) the LU-partition 
+algorithm from 
+[this paper](https://link.springer.com/article/10.1007/s00453-010-9485-y)
+as part of a project with the Princeton Gerrymandering Project's Ensemble Club.
+The algorithm will be used in algorithmic drawing of district maps, with the
+goal of improving map analysis through direct sampling of the map distribution. 
 
 ### QA-QG System
 
@@ -57,7 +86,7 @@ generate factoid questions about the text or answer given questions. Our
 project won the position for best question generation.
 
 This project was built primarily with spaCy and NLTK, with some components such
-as BERT models from huggingface.
+as BERT models from Hugging Face.
 
 ### Recipe Delta
 
@@ -65,7 +94,10 @@ Recipe Delta was a HackCMU 2019 project. We created a web application that
 allows you to easily find recipes oriented towards using up ingredients you 
 have on hand.
 
-Our frontend was built with AngularJS and our backend was built with Python.
+Our [frontend](https://github.com/inkyubeytor/recipe_delta-client) was built 
+with AngularJS and our 
+[backend](https://github.com/inkyubeytor/recipe_delta-server) was built with 
+Python.
 
 ### EduPass
 
@@ -161,25 +193,29 @@ __Fall 2018__
 
 University of Minnesota Talented Youth Math Program (abbreviated UMTYMP):
 The collegiate component consisted of the courses
-_MATH 1471_,
-_MATH 1472_,
-_MATH 1473_,
-_MATH 2471_,
-_MATH 2472_, and
-_MATH 2473_, covering single and multivariable calculus and linear algebra. I 
-took these courses from 2014 to 2017, spanning 8th through 10th grade of high 
-school.
+MATH 1471,
+MATH 1472,
+MATH 1473,
+MATH 2471,
+MATH 2472, and
+MATH 2473, 
+covering single and multivariable calculus and linear algebra. I 
+took these courses from 2014 to 2017, spanning 8th through 10th grade.
 
 # Volunteering
 
 ### CMU Science Olympiad
 
-<!--TODO-->
+As part of CMU SciOly, I wrote tests for the Fossils and Codebusters events.
+I also proctored and graded exams for the Fossils event for multiple years.
 
 ### CMIMC
 
-<!--TODO-->
+I contributed to the development of the website used for CMIMC remote 
+competitions during the pandemic, working with Django and JavaScript.
 
 ### Free Geek Twin Cities
 
-<!--TODO-->
+I worked with a team of volunteers to build computers out of donated parts
+and install Linux on these devices for discounted sale to low-income families.
+I also took part in the disassembly and recycling of old electronics.
