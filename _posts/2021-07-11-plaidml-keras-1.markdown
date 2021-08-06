@@ -2,10 +2,8 @@
 layout: post
 title:  "Using PlaidML with Keras, Part 1: Installation and Tensors"
 categories: [Deep Learning]
-tags: PlaidML Keras
+tags: Keras PlaidML
 ---
-
-# Introduction
 
 Given that my primary (desktop) computer for the past few years has always had
 an AMD graphics card, I was reliant on laptops and cloud solutions for
@@ -15,7 +13,6 @@ GPU for deep learning.
 
 While PyTorch for AMD ROCm exists and supports most new AMD GPUs, I wanted to
 work with Keras, so I chose to forego this option for now.
-
 I also decided to attempt this process using only my native operating system of
 Windows, rather than working with WSL or virtual machines.
 
@@ -32,7 +29,7 @@ Keras is a deep learning API designed to provide programmers with a consistent
 and easy to use interface across a variety of supporting low-level software
 backends.
 As the current Keras is tightly interwoven with TensorFlow, I first looked for
-an adapted TensorFlow backend that worked on AMD devices.
+an adapted TensorFlow backend that works on AMD devices.
 
 The default TensorFlow backend is built on top of the Nvidia-specific CUDA.
 Adaptations look to adapt TensorFlow to OpenCL, which works with AMD GPUs
