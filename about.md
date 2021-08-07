@@ -9,7 +9,7 @@ University. My current interests lie mostly in the realm of natural language
 processing, but I'm always open to expanding my knowledge in other fields.
 
 If you're looking for my one-page resume,
-[look no further]({{ site.url }}/assets/files/resume_2021-08-06.pdf). 
+[look no further]({{ site.url }}/assets/files/resume_2021-08-07.pdf). 
 A more detailed description of my experience is below.
 
 
