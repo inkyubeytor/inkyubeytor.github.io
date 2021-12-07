@@ -8,3 +8,6 @@ tags:
 
 My proposal for the 07-400 research project is located 
 [here]({{ site.url }}/assets/files/code-switching/proposal.pdf).
+
+The slides for my presentation are located
+[here]({{ site.url }}/assets/files/code-switching/proposal_slides.pdf).
