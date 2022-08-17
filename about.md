@@ -4,16 +4,27 @@ title: About Me
 sidebar_link: true
 ---
 
-I'm a rising junior studying artificial intelligence at Carnegie Mellon 
-University. My current interests lie mostly in the realm of natural language 
-processing, but I'm always open to expanding my knowledge in other fields.
+I'm a rising senior studying artificial intelligence and computer science at 
+Carnegie Mellon University.
+My current interests lie mostly in the realm of natural language processing 
+and causal inference, but I'm always open to expanding my knowledge in other 
+fields.
 
 If you're looking for my one-page resume,
-[look no further]({{ site.url }}/assets/files/resume_2021-09-14.pdf). 
+[look no further]({{ site.url }}/assets/files/resume_2022-08-16.pdf). 
 A more detailed description of my experience is below.
 
 
 # Work Experience
+
+### Software Engineer Intern at Meta - Facebook AI Applied Research
+
+I worked on the AI for Ads team on the Ads Supply project. Our goal was to 
+model the impact of changing ad load on revenue and engagement metrics at the
+user level. I developed and applied variants of meta learner models for causal
+inference and analyzed these models on a variety of performance metrics and 
+with white-box model explainability techniques. I also proposed and implemented 
+new techniques for more accurate model evaluation.
 
 ### Data Science Intern at Verizon - Systems Performance Engineering
 
@@ -34,6 +45,13 @@ As a grader, I provided personalized feedback to student problem submissions
 for Python and algebra problems.
 
 # Research Experience
+
+### Evaluating Synthetic Code-Switched Data
+
+As part of the 07-300 and 07-400 research practicum sequence, I worked on 
+generating and evaluating synthetic multilingual code-switched text for use in
+finetuning code-switched language models. This project was documented through
+this website at [Code-Switching]({{ site.url }}/category/code-switching.html).
 
 ### Verdant: Computational Notebook Versioning
 
@@ -123,6 +141,20 @@ Agile management strategies).
 ### Carnegie Mellon University
 
 GPA: 4.00/4.00
+
+__Spring 2022__
+
+* 07-400: Research Practicum in Computer Science
+* 10-707: Advanced Deep Learning
+* 15-418: Parallel Computer Architecture and Programming
+* 76-221: Books You Should Have Read By Now
+
+__Fall 2021__
+
+* 05-318: Human AI Interaction
+* 07-300: Research and Innovation in Computer Science
+* 10-725: Convex Optimization
+* 11-492: Speech Processing
 
 __Spring 2021__
 
