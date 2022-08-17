@@ -4,12 +4,6 @@ title: About Me
 sidebar_link: true
 ---
 
-I'm a rising senior studying artificial intelligence and computer science at 
-Carnegie Mellon University.
-My current interests lie mostly in the realm of natural language processing 
-and causal inference, but I'm always open to expanding my knowledge in other 
-fields.
-
 If you're looking for my one-page resume,
 [look no further]({{ site.url }}/assets/files/resume_2022-08-16.pdf). 
 A more detailed description of my experience is below.
