@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 If you're looking for my one-page resume,
-[look no further]({{ site.url }}/assets/files/resume_2022-08-17.pdf). 
+[look no further]({{ site.url }}/assets/files/resume_2022-08-18.pdf). 
 A more detailed description of my experience is below.
 
 
