@@ -2,7 +2,7 @@
 layout: post
 title:  "Idea: Role Analysis Via Unsupervised Cross-Lingual Alignment"
 categories: [Computational Literature]
-tags: idea
+tags: [idea]
 ---
 
 A common task in analysis of fiction is the assignment of characters
