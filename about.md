@@ -134,12 +134,17 @@ Agile management strategies).
 
 ### Carnegie Mellon University
 
-GPA: 4.00/4.00
+GPA: 4.33/4.00
 
 __Spring 2023__
 * 10-605: Machine Learning with Large Datasets
 * 10-613: Machine Learning Ethics and Society
 * 10-708: Probabilistic Graphical Models
+
+
+### Carnegie Mellon University
+
+GPA: 4.00/4.00
 
 __Fall 2022__
 * 11-324: Human Language for Artificial Intelligence
